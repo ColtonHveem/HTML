@@ -1,0 +1,102 @@
+<h1>1st Level Headline (h one)</h1>
+<h2>2nd Level Headline</h2>
+<h3>3rd Level Headline</h3>
+<h4>4th Level Headline</h4>
+<h5>5th Level Headline</h5>
+<h6>6th Level Headline</h6>
+<p> This is an example of paragraph1 (p).
+</p>
+<p> This is an example of paragraph2.
+</p>
+
+<h1>1st Level Headline</h1>
+<p> This is an example of paragraph1.
+</p>
+<p> This is an example of paragraph2.
+</p>
+<h1>1st Level Headline</h1>
+<h2>2nd Level Headline</h2>
+<h3>3rd Level Headline</h3>
+<h4>4th Level Headline</h4>
+<h5>5th Level Headline</h5>
+<h6>6th Level Headline</h6>
+
+<h1> Title of this Article</h1>
+<h2> Subtitle that's usually smaller and maybe longer </h2>
+<p> There is alot of information that I wanted to cover and it all belongs together in this paragraph.</p>
+<p>There is alot of different information that I wanted to cover and it all belongs together in this paragraph.</p>
+<p>There is alot of different information that I wanted to cover and it all belongs together in this paragraph.</p>
+
+<i>emphasize with italics(i)</i>
+<em>emphasize with italics(em - noticable in audio, not visual)</em>
+<p>My favorite dish to make is <i>Deep Dish Mac</i>.</p>
+<p>My <em>favorite</em> dish to make is <i>Deep Dish Mac</i>.</p>
+<p>My <b><em>favorite</em></b> dish to make is <i>Deep Dish Mac</i>.</p>
+<p>My <strong>favorite</strong> dish to make is <i>Deep Dish Mac</i>.
+</p>
+<p>My <em><strong>favorite</strong></em> dish to make is <i>Deep Dish Mac</i>.</p>
+
+<h1><strong>WARINING!</strong> Do note be late.</h1> <h2><strong>CHOCOLATE AND COFFEE</strong> and other things I crave</h2>
+  <p>This is a paragraph of text. Let's pretend it's part of a long article, where we expect many people to quickly scan through it and we want to mark <b>certain phrases with some boldness</b>, some visual attention, so that those sentences jump out and poepl don't miss them. Almost like having a pull-quote.</p>
+
+<h3>Lists</h3>
+<ul>unordered list</ul>
+<ol>ordered list</ol>
+<dt>dictionary define term</dt>
+<dd>dictionary define term</dd>
+<li>list item</li>
+
+<ul>
+  <li>flour</li>
+  <li>sugar</li>
+  <li>baking powder</li>
+  <li>salt</li>
+  <li>non-dairy milk</li>
+  <li>apple cider vinegar</li>
+  <li>vanilla</li>
+</ul>
+
+<ol>
+<li>In a bowl, mix all the dry ingredients.</li><li> In another bowl, mix together the rest.</li><li> Wisk together.</li><li> Wait 5 minutes.</li><li> Cook the pancakes.</li>
+</ol>
+
+<h3>Inline Elements</h3>
+<q></q>
+<strong></strong>
+<b></b>
+<i></i>
+<em></em>
+
+<h3>BlockQuote Elements</h3>
+<blockquote></blockquote>
+<p></p>
+<ul></ul>
+
+<blockquote><p>We've gone from having 21 elements in HTML tages, that first document, to having 100 more elements now, and yet it's still the same language. I find that amazing. It's still the same language that was created 25 years ago. It's grown as extra 100 elements in there, and yet itj's still the same language.</p>
+
+<cite> - Jeremy Keith</cite>
+</blockquote>
+
+<p>Jermey Keith said, <q>You could open an HTML document from back then in a browser today.</q></p>
+
+<h3>Dates and Times</h3>
+<time datetime ="2049-09-07">September 7</time>
+<time datetime ="2049-09-07">September 7, 2049</time>
+<time datetime ="2049-09-07">7 September 2049</time>
+<time datetime ="2049-09-07"> September 7</time>
+
+<h3>HTML Attributes</h3>
+<elementname attributename = "">
+  <p lang = "fr"> This declares the paragraph to the language <q>French</q>(Even though it is not in french).</p>
+
+<h3>CODES</h3>
+  <code></code>
+  <br></br>
+  <pre></pre>
+  We can write {color:green;} in our CSS, and it will apply to anithing marked up as an element.
+<p>We can write <code>{color:green;}</code> in our CSS, and it will apply to anithing marked up as an <code>&lt;H4&gt;</code>element.</p>
+  
+
+
+<article>
+<article>

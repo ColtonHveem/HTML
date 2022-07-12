@@ -1,0 +1,122 @@
+<h1>Day 2</h1>
+<h2>HTML Entities</h2>
+<code></code>
+<br>
+<pre></pre>
+
+<p>They<br> say you took my manhood,<br> Momma.<br> Come sit on my lap<br> and tell me,<br> what do you want me to say<br> to them, just<br> before I annihilate<br> their ignorance?</p>
+
+<cite> - Maya Angelou </cite>
+
+<h1>[in Just-]</h1>
+<p> by e.e. cummings</p>
+
+<pre>
+it's
+spring
+and
+
+
+    the
+    
+              goat-footed
+
+ballonMan     whistles
+far
+and
+wee
+
+</pre>
+<pre>
+&lt;ul&gt;
+  &lt;li&gt;&lt;flour&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;sugar&gt;&lt;/li&gt;
+  &lt;uli&gt;&lt;salt&gt;&lt;/li&gt;
+&lt;/ul&gt;
+  
+</pre>
+<code>
+</code>
+<h3>subscripts and superscripts</h3>
+
+H20
+
+Something that has a footnote.2
+
+@ 2019 Fancy Company
+
+
+<p>H<sub>2</sub>0</p>
+
+<p>Something that has a footnote.<sup>2</sup></p>
+
+<small>@ 2019 Fancy Company</small>
+
+<h3>Global Attributes</h3>
+<h4>Class and ID attributes</h4>
+<p class = "intro">
+  This is the introduction.
+</p>
+<p class = "intro" id = "article-intro">
+  This is the introduction.
+</p>
+
+<h1 class = "page-title">Bees</h1>
+<h2 class = "subtitle">Beekeeping</h2>
+<h4>Bee Stuff</h4>
+<ul>
+<li>One</li>
+<li>Two</li>
+<li>Three</li>
+<li>Four</li>
+</ul>
+<section id = "toc">
+<h3 class = "toc-title">Table of Contents</h3>
+</section>
+<ol>
+  <li><a href = "page.html">Beekeeping</a></li>
+  </ol>
+
+<blockquote contenteditable = "true">
+Edit this content to add your own quote.
+    </blockquote>
+    <cite contenteditable = "true">Your name here</cite>
+
+<h3>Aria Roles</h3>
+  
+<h1 aria-label = "Hello World"><div class = "grid" aria-hidden="true"></h1>
+  <span>H</span>
+  <span>e</span>
+  <span>l</span>
+  <span>l</span>
+  <span>o</span>
+  
+  <span>W</span>
+  <span>o</span>
+  <span>r</span>
+  <span>l</span>
+  <span>d</span>
+  
+<!-- This is a comment. &nbsp stands for "no break space" which allows for multiple spaces in the text-->
+  <p>Here's an example.&nbsp;  &nbsp;Some people put two spaces between every sentence.&nbsp;  &nbsp;Like an animal.&nbsp;  &nbsp;Why?&nbsp;  &nbsp;I don't know.&nbsp;  &nbsp;The computer is not a typewriter.</p>
+
+<p>Here is a sentence that will break between every word, including between Johnny&nbsp;Depp.</p>
+  <!-- &nbsp allows for a space between words that will not break to a new line -->
+
+<h3>Hyperlinks</h3>
+<a href="https://example.com"> This is a hyperlink</a>
+
+  <p>This is a sentence <a href="https://example.com"> with a link</a> in the midst of the text.</p>
+  
+<nav role = "navigation" aria-label = "main menu">
+  <ul class = "navbar">
+    <li><a href="/">Home</a></li>
+    <li><a href="/people">People</a></li>
+    <li><a href="/prices">Prices</a></li>
+    <li><a href="/contact">contact</a></li>
+  </ul>
+</nav>
+
+<footer><a href="/about/privacy">Privacy Policy</a>
+  <a href="about/legal">Terms of Service</a>
+</footer>

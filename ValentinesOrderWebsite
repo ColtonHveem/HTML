@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+	<form>
+		<p> Choose your color:</p>
+			<select name="color" id="color">
+				<option value="Red">Red</option>
+				<option value="Red">Orange</option>
+				<option value="Red">Yellow</option>
+				<option value="Red">Green</option>
+				<option value="Red">Blue</option>
+				<option value="Red">Indigo</option>
+				<option value="Red">Violet</option>
+			</select>
+			<br>
+		<p> Day of the Week:</p>
+			<label for="day">Monday<input type="radio" name="day" value="monday"></label>
+			<label for="day">Tuesday<input type="radio" name="day" value="tuesday"></label>
+			<label for="day">Wednesday<input type="radio" name="day" value="wednesday"></label>
+			<label for="day">Thursday<input type="radio" name="day" value="thursday"></label>
+			<label for="day">Friday<input type="radio" name="day" value="friday"></label>
+			<label for="day">Saturday<input type="radio" name="day" value="saturday"></label>
+			<label for="day">Sunday<input type="radio" name="day" value="sunday"></label>
+			<br>
+		<label for="comment">Enter Comments:</label>
+			<textarea rows="4" cols="30" name="comments" id="comment"></textarea>
+			<br>
+		<label>Sign me up for weekly cookie boquet<input type="checkbox" name="email updates"></label>
+			<br>
+		<label>Sign me up for weekly roses<input type="checkbox" checked="checked" name="email updates 2"></label>
+			<br>
+			<input type="submit" value="Submit">
+	</form>
+</html>

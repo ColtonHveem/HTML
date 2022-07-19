@@ -10,3 +10,32 @@
 </video>
 <iframe frameborder="0" scrolling="no" src="https://freesound.org/embed/sound/iframe/642368/simple/large/" width="920" height="245"></iframe>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/h03QBNVwX8Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+----
+
+<!DOCtype html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title>Text Formating</title>
+	</head>
+		<body>
+			<p>This <em>word</em> is emphasized.</p>
+			<p>This <b>word</b> is emphasized more, it stands out against text surround it.</p>
+			<p>This <i>word</i> word is italic.</p>
+			<p>This <strike>word</strike> is crossed out.</p>
+			<p></p>
+		</body>
+		<body>
+			<p><u>This area is about images</u></p>
+			<!<img src="img.jpg" alt="black dog">
+			<img src="https://www.dogtime.com/assets/uploads/2018/08/national-black-dog-day-1.jpg" alt="black dog" width="400" height="300">
+			<figcaption>Clifford posing for the camera, as if he is the only dog in the world that matters.</figcaption>
+			<figure>for anything that appears as a figure, illustrating something</figure>
+		</body>
+		<body>
+		<audio></audio>
+		<audio src="audio.mp3"></audio> 
+		</body>
+
+
+</html>
